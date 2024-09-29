@@ -1,0 +1,123 @@
+*{
+    background-color: RGB(56, 60, 66);
+    color: white;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ 
+  
+}
+
+.atr{
+    -moz-appearance: none;
+    border: 0px solid #ccc;
+   
+}
+
+.pren{
+    display: flex;
+    justify-content: flex-start;
+    gap: 50px;
+    align-items: center;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500%;
+    font-size: 120%;
+}
+.login{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    margin-left: 50%;
+    
+}
+.tt1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-weight: 100; 
+   display: flex;
+  margin-top: 5%;
+   justify-content: flex-start;
+   margin-left: 10%;
+   font-size: 600%;
+   background-image: url(https://img.freepik.com/free-vector/isometric-e-commerce-concept-style_23-2148569257.jpg?w=826&t=st=1727639040~exp=1727639640~hmac=561a23f6aa86137f084a15997dd46d438e19146e07827d870255b01882a5f2bd);
+   background-repeat: no-repeat;
+   background-position: 80% 60%;
+   background-size: 50%;
+}
+.p1{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-size: 150%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    gap: 5%;
+
+ 
+}
+.img2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-left: 45%;
+}
+.btn-2{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 3%;
+    gap: 1%;
+}
+.btn{
+    width:10%;
+    padding: 1%;
+    text-decoration: none;
+    border-style: none;
+    border: coral 1px solid ;
+    color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    gap: 10%;
+}
+.btn2{
+    width:10%;
+    padding: 1%;
+    text-decoration: none;
+    border-style: none;
+    border: rgb(85, 251, 146) 1px solid ;
+    color: rgb(85, 251, 146);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    gap: 10%;
+}
+.btn-3{
+    
+       
+        text-decoration: none;
+        border-style: none;
+        border: rgb(255, 255, 255) 1px solid ;
+        color: rgb(255, 255, 255);
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 2%;
+        width: 120%;
+        font-size: 75%;
+        gap: 10%;
+    
+}
+.btn-4{
+    
+       
+    text-decoration: none;
+    border-style: none;
+    border: rgb(255, 255, 255) 1px solid ;
+    color: rgb(38, 38, 38);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2%;
+    width: 120%;
+    font-size: 75%;
+    gap: 10%;
+    background-color: white;
+
+}
+.img-2{
+    
+}
